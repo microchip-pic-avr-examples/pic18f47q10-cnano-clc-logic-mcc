@@ -13,6 +13,7 @@ Three use cases are implemented : AND, OR and XOR.
 
 ## Related Documentation
 Existing application notes or tech briefs that are related to the subject:
+- [TB3273 - Getting Started with CLC on PIC18](https://www.microchip.com/wwwappnotes/appnotes.aspx?appnote=en1002950)
 - [AN2133 - Extending PIC® MCU Capabilities Using CLC](http://ww1.microchip.com/downloads/en/AppNotes/00002133a.pdf)
 - [TB3133 – Configurable Logic Cell on PIC® Microcontrollers](http://ww1.microchip.com/downloads/en/Appnotes/90003133A.pdf)
 - [AN2805 - Robust Debouncing with Core Independent Peripherals](http://ww1.microchip.com/downloads/en/DeviceDoc/AN2805-Robust-Debounc-Core-Inddep-Periph-DS00002805A.pdf)
